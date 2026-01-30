@@ -11,6 +11,4 @@ scanf("%f", &PRO);
 if (PRO >= 6)
 printf("\nAprobado");
 
-if (PRO < 6)
-printf("\nReprobado");
 }
